@@ -1,0 +1,18 @@
+2015-05-30 21:05:02.132 lunchadores-app[47187:4225812] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/johnrake/Library/Developer/CoreSimulator/Devices/104FFB8C-9942-411C-9AFF-9A0CCC4B1906/data/Containers/Data/Application/61C30B86-D086-4639-8D30-D2B9B7492D44/Library/Cookies/Cookies.binarycookies
+2015-05-30 21:05:02.346 lunchadores-app[47187:4225812] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-30 21:05:02.346 lunchadores-app[47187:4225812] Multi-tasking -> Device: YES, App: YES
+2015-05-30 21:05:02.359 lunchadores-app[47187:4225812] Unlimited access to network resources
+2015-05-30 21:05:02.652 lunchadores-app[47187:4225812] [CDVTimer][keyboard] 0.060976ms
+2015-05-30 21:05:02.778 lunchadores-app[47187:4225812] [CDVTimer][splashscreen] 125.604033ms
+2015-05-30 21:05:02.778 lunchadores-app[47187:4225812] [CDVTimer][TotalPluginStartup] 126.374006ms
+2015-05-30 21:05:03.139 lunchadores-app[47187:4225812] Resetting plugins due to page load.
+2015-05-30 21:05:03.397 lunchadores-app[47187:4225812] Finished load of: file:///Users/johnrake/Library/Developer/CoreSimulator/Devices/104FFB8C-9942-411C-9AFF-9A0CCC4B1906/data/Containers/Bundle/Application/327C5D8E-043F-4E5B-80B3-FF29AC01299F/lunchadores-app.app/www/index.html#/tab/dash
+2015-05-30 21:06:16.138 lunchadores-app[47412:4227223] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/johnrake/Library/Developer/CoreSimulator/Devices/104FFB8C-9942-411C-9AFF-9A0CCC4B1906/data/Containers/Data/Application/A6B907E7-6497-48C3-A42E-1DAB88C0A1C0/Library/Cookies/Cookies.binarycookies
+2015-05-30 21:06:16.211 lunchadores-app[47412:4227223] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-30 21:06:16.212 lunchadores-app[47412:4227223] Multi-tasking -> Device: YES, App: YES
+2015-05-30 21:06:16.214 lunchadores-app[47412:4227223] Unlimited access to network resources
+2015-05-30 21:06:16.288 lunchadores-app[47412:4227223] [CDVTimer][keyboard] 0.059009ms
+2015-05-30 21:06:16.302 lunchadores-app[47412:4227223] [CDVTimer][splashscreen] 13.681054ms
+2015-05-30 21:06:16.302 lunchadores-app[47412:4227223] [CDVTimer][TotalPluginStartup] 14.073014ms
+2015-05-30 21:06:16.354 lunchadores-app[47412:4227223] Resetting plugins due to page load.
+2015-05-30 21:06:16.503 lunchadores-app[47412:4227223] Finished load of: file:///Users/johnrake/Library/Developer/CoreSimulator/Devices/104FFB8C-9942-411C-9AFF-9A0CCC4B1906/data/Containers/Bundle/Application/ABF26A4B-D90D-4441-B520-9D5BF001EE8F/lunchadores-app.app/www/index.html#/tab/dash
