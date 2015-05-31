@@ -1,6 +1,18 @@
-angular.module('starter.controllers', [])
+angular.module('controllers', [])
 
-.controller('DashCtrl', function($scope) {})
+.controller('DashCtrl', function($scope, Auth, Restaurants) {
+    Restaurants.query().$promise.then(function(data) {
+      console.log(data);
+    }).catch(function(error) {
+      console.error(error);
+    });
+    Auth.logout();
+    Auth.login({
+      email_address: 'john.rake12@gmail.com',
+      password: 'admin'
+    });
+
+})
 
 .controller('ChatsCtrl', function($scope, Chats) {
   // With the new view caching in Ionic, Controllers are only called
@@ -10,7 +22,7 @@ angular.module('starter.controllers', [])
   //
   //$scope.$on('$ionicView.enter', function(e) {
   //});
-  
+
   $scope.chats = Chats.all();
   $scope.remove = function(chat) {
     Chats.remove(chat);
